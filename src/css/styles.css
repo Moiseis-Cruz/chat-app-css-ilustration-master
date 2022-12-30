@@ -12,3 +12,39 @@ main {
     background-color: aquamarine;
     padding: 15px;
 }
+
+.container .contact {
+    display: flex;
+}
+
+.container .contact .stats h3 {
+    font-size: 11px;
+    font-weight: 700;
+}
+
+.container .contact .stats h6 {
+    font-size: 8px;
+    font-weight: 500;
+}
+
+.container .contact img {
+    width: 24px;
+    border-radius: 50%;
+    border: 1px solid #fff;
+}
+
+.container .message {
+    background-color: blanchedalmond;
+}
+
+.title {
+    font-size: 38px;
+    font-weight: 500;
+}
+
+.description {
+    background-color: burlywood;
+    font-size: 16px;
+    width: 450px;
+    line-height: 24px;
+}
